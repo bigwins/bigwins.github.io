@@ -1,6 +1,6 @@
 h1 {
   font-family: Verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
   text-align: center;
@@ -9,6 +9,8 @@ h1 {
 body {
   font-family: Verdana, sans-serif;
   background-color: black;
+  text-align: center;
+  color: white;
 }
 
 .cta {
@@ -19,4 +21,8 @@ body {
 p {
   text-align: center;
 
+}
+
+video {
+    object-fit: contain;
 }
